@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/workflow-task",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Schema-validated typed workflow task definitions and execution.",
   "keywords": [
     "javascript",
